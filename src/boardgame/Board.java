@@ -1,4 +1,4 @@
-package BordGame;
+package boardgame;
 
 public class Board {
 
